@@ -1,2 +1,2 @@
-print("My first exq;ple for git Test")
+print("My Second exq;ple for git Test")
 
